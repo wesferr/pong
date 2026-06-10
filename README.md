@@ -33,6 +33,23 @@ Right Player:
 - Arrow Up: Up
 - Arrow Down: Down
 
+## Gallery
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="./path/to/image1.png" alt="Gameplay Screenshot 1" width="100%">
+        <p><b>Gameplay Screenshot 1</b></p>
+      </td>
+      <td align="center" width="50%">
+        <img src="./path/to/image2.png" alt="Gameplay Screenshot 2" width="100%">
+        <p><b>Gameplay Screenshot 2</b></p>
+      </td>
+    </tr>
+  </table>
+</div>
+
 ## Historical Context
 
 Developed in 2016 as my first complete game project.
